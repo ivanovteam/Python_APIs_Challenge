@@ -33,15 +33,15 @@ The second analysis is a linear regression on each relationship but also, they a
 Based on the analysis there are some obvious relations - as we getting close to the equator the temperatures are raising and some observations that could be interesting enough to look at their graphs.
 
 ![fig1](starter_code/images/latitude_vs_temp.png)
-![fig2](starter_code/images/lin_reg_north_temp_vs_lat.png) 
-![fig3](starter_code/images/lin_reg_south_temp_vs_lat.png)
+![fig2](starter_code/images/Lin_reg_north_temp_vs_lat.png) 
+![fig3](starter_code/images/Lin_reg_south_temp_vs_lat.png)
 
 The first figure shows the temperature in different latitudes and the second two graphs are showing the linear regression on the temperature vs latitude but split by Northern and Southern Hemisphere. It is obvious that the highest temperatures are around the equator and if we look at the second graph there is a strong correlation between temperature and latitude - going further North the temperatures are going down. Interestingly enough if we look at the third graph - the regression for the Southern Hemisphere, the correlation is there but it is not that strong as it was with Northern Hemisphere. The reason for that is the time of the year. As this survey is made in the beginning of the spring in the Northern Hemisphere and temperatures could range from close to a 100F to under -20F in the meantime in the Southern Hemisphere the weather is more moderate at this time of the year and there are no temperatures under 50F. Another aspect about this is that the data collected reflect on cities at both Hemispheres and North is more congested than the South so there are more cities involved in the analysis from the North.
 
 Let's look at the humidity for both Northern and Southern Hemisphere below:
 
-![fig4](starter_code/images/lin_reg_north_humidity_vs_lat.png) 
-![fig5](starter_code/images/lin_reg_south_humidity_vs_lat.png)
+![fig4](starter_code/images/Lin_reg_north_humidity_vs_lat.png) 
+![fig5](starter_code/images/Lin_reg_south_humidity_vs_lat.png)
 
 We can conclude that there is no strong relation between humidity and latitude in both Hemispheres. Interesting observation is that in the Northern Hemisphere the humidity is higher going further away from the equator and in the Southern Hemisphere is the opposite. Again, the reason for this is the time of the year where on the North the winter just finished going in spring and on the South was just the end of the summer going in fall.
 
