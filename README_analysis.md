@@ -31,7 +31,7 @@ The second analysis is a linear regression on each relationship but also, they a
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 Based on the analysis there are some obvious relations - as we getting close to the equator the temperatures are raising and some observations that could be interesting enough to look at their graphs.
-
+# Fig.1
 ![fig1](starter_code/images/latitude_vs_temp.png)
 ![fig2](starter_code/images/Lin_reg_north_temp_vs_lat.png) 
 ![fig3](starter_code/images/Lin_reg_south_temp_vs_lat.png)
