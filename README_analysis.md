@@ -41,14 +41,14 @@ Based on the analysis there are some obvious relations - as we getting close to 
 The first figure shows the temperature in different latitudes and the second two graphs are showing the linear regression on the temperature vs latitude but split by Northern and Southern Hemisphere. It is obvious that the highest temperatures are around the equator and if we look at the second graph there is a strong correlation between temperature and latitude - going further North the temperatures are going down. Interestingly enough if we look at the third graph - the regression for the Southern Hemisphere, the correlation is there but it is not that strong as it was with Northern Hemisphere. The reason for that is the time of the year. As this survey is made in the beginning of the spring in the Northern Hemisphere and temperatures could range from close to a 100F to under -20F in the meantime in the Southern Hemisphere the weather is more moderate at this time of the year and there are no temperatures under 50F. Another aspect about this is that the data collected reflect on cities at both Hemispheres and North is more congested than the South so there are more cities involved in the analysis from the North.
 
 Let's look at the humidity for both Northern and Southern Hemisphere below:
-# Fig.4                                                                                                             Fig.5
+# Fig.4 and Fig.5
 ![fig4](starter_code/images/Lin_reg_north_humidity_vs_lat.png) 
 ![fig5](starter_code/images/Lin_reg_south_humidity_vs_lat.png)
 
 We can conclude that there is no strong relation between humidity and latitude in both Hemispheres. Interesting observation is that in the Northern Hemisphere the humidity is higher going further away from the equator and in the Southern Hemisphere is the opposite. Again, the reason for this is the time of the year where on the North the winter just finished going in spring and on the South was just the end of the summer going in fall.
 
 Let's look at the wind speed vs latitude figure:
-
+# Fig.6
 ![fig6](starter_code/images/latitude_vs_windspeed.png) 
 
 The figure above shows that there is no relation between the wind speed and the latitude. If we look at the right side of the graph, which represent the North we can see few outliers in the the range 30-40mph and respectively on the South looks little bit calmer which again could be connected with the seasons in the different parts of the world. It would be interesting to see if there is a significant difference in the fall season of Northern Hemisphere when the hurricanes season starts as well. 
