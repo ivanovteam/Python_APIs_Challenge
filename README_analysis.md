@@ -66,7 +66,7 @@ The figure above shows that there is no relation between the wind speed and the 
   * Zero cloudiness.
   
   There were only 12 hotels that met all the requirements and on the map below you can see their locations.
-  Enjoy your travel!
+
 
   ![hotel map](starter_code/images/hotel_map.png)
 
