@@ -5,7 +5,7 @@
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. For the purpose of this project Python requests, APIs, and JSON traversals will be used to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 
-![Equator](starter_code/Images/world.png)
+![World_pic](starter_code/images/world.png)
 
 ### Observations based on the analysis and graphs
 
@@ -55,4 +55,19 @@ The figure above shows that there is no relation between the wind speed and the 
 
 * Create a heat map that displays the humidity for every city from the part I.
 
-  ![fig7](starter_code/Images/humidity_map.png)
+  ![fig7](starter_code/images/humidity_map.png)
+  
+* Narrow down the Data Frame to find your ideal weather condition. For example:
+
+  * A max temperature lower than 80 degrees but higher than 70.
+
+  * Wind speed less than 10 mph.
+
+  * Zero cloudiness.
+  
+  There were only 12 hotels that met all the requirements and on the map below you can see their locations.
+  Enjoy your travel!
+
+  ![hotel map](starter_code/images/hotel_map.png)
+
+  Enjoy your travel!
